@@ -1,0 +1,3 @@
+TESVSnip is a fork of the TESsnip utility bundled with Fallout Mod Manager with changes specifically for Skyrim.
+
+In the word of the original author, TESsnip is a low level plugin editor that allows you to open esm/esp files, view the record structure and cut/copy/paste records and subrecords between different parents, including different esp's. You can also view and edit the data saved in a subrecord, in either hex or string format, as well as editing record headers.
